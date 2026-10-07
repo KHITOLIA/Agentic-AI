@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain_huggingface
+langchain_openai
+python-dotenv
+scikit-learn
+numpy
+pandas
+
+# pip install -r requirements.txt
